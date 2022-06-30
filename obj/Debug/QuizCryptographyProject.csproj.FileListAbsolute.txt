@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\QuizCryptographyProject\QuizCryptographyProject\obj\Debug\QuizCryptographyProject.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\QuizCryptographyProject\QuizCryptographyProject\obj\Debug\QuizCryptographyProject.LoginForm.resources
+C:\Users\user\source\repos\QuizCryptographyProject\QuizCryptographyProject\obj\Debug\QuizCryptographyProject.Properties.Resources.resources
+C:\Users\user\source\repos\QuizCryptographyProject\QuizCryptographyProject\obj\Debug\QuizCryptographyProject.csproj.GenerateResource.cache
+C:\Users\user\source\repos\QuizCryptographyProject\QuizCryptographyProject\obj\Debug\QuizCryptographyProject.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\QuizCryptographyProject\QuizCryptographyProject\obj\Debug\QuizCryptographyProject.exe
+C:\Users\user\source\repos\QuizCryptographyProject\QuizCryptographyProject\obj\Debug\QuizCryptographyProject.pdb
+C:\Users\user\source\repos\QuizCryptographyProject\QuizCryptographyProject\obj\Debug\QuizCryptographyProject.Forms.RegisterForm.resources
+C:\Users\user\source\repos\QuizCryptographyProject\QuizCryptographyProject\QuizCryptographyProject.exe.config
+C:\Users\user\source\repos\QuizCryptographyProject\QuizCryptographyProject\QuizCryptographyProject.exe
+C:\Users\user\source\repos\QuizCryptographyProject\QuizCryptographyProject\QuizCryptographyProject.pdb
+C:\Users\user\source\repos\QuizCryptographyProject\QuizCryptographyProject\obj\Debug\QuizCryptographyProject.Forms.MainWindowForm.resources
+C:\Users\user\source\repos\QuizCryptographyProject\QuizCryptographyProject\obj\Debug\QuizCryptographyProject.Forms.GameForm.resources
+C:\Users\user\source\repos\QuizCryptographyProject\QuizCryptographyProject\obj\Debug\QuizCryptographyProject.Forms.Result.resources
